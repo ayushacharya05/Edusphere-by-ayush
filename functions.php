@@ -11,7 +11,7 @@
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 define( 'EDUSPHERE_VERSION', '1.0.0' );
-define( 'EDUSPHERE_SUPPORT_EMAIL', 'contact@ayushacharya.np.np' );
+define( 'EDUSPHERE_SUPPORT_EMAIL', 'contact@ayushacharya.np' );
 define( 'EDUSPHERE_THEME_WEBSITE', 'https://ayushacharya.info.np' );
 
 /* =========================================================
