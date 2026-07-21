@@ -4,7 +4,7 @@
  *
  * @package EduSphere_By_Ayush
  * @author  Ayush Acharya
- * @link    https://ayushacharya.info.np
+ * @link   https://edusphere.ayushacharya.info.np/
  * @support contact@ayushacharya.np.np
  */
 
