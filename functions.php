@@ -4,15 +4,15 @@
  *
  * @package EduSphere_By_Ayush
  * @author  Ayush Acharya
- * @link    https://ayushacharya5.com.np
- * @support contact@ayushacharya5.com.np
+ * @link    https://ayushacharya.info.np
+ * @support contact@ayushacharya.np.np
  */
 
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 define( 'EDUSPHERE_VERSION', '1.0.0' );
-define( 'EDUSPHERE_SUPPORT_EMAIL', 'contact@ayushacharya5.com.np' );
-define( 'EDUSPHERE_THEME_WEBSITE', 'https://ayushacharya5.com.np' );
+define( 'EDUSPHERE_SUPPORT_EMAIL', 'contact@ayushacharya.np.np' );
+define( 'EDUSPHERE_THEME_WEBSITE', 'https://ayushacharya.info.np' );
 
 /* =========================================================
    1. THEME SETUP
